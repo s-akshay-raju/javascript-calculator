@@ -15,19 +15,20 @@ A clean, responsive calculator with a dark theme built using HTML, CSS, and vani
 ## How to Use
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/s-akshay-raju/javascript-calculator.git](https://github.com/s-akshay-raju/javascript-calculator.git)
+
+```bash
+   git clone https://github.com/s-akshay-raju/javascript-calculator.git
+```
+
 2. Open the project: Navigate to the folder and open calculator.html in your web browser.
 
 That's it!
 
-Built With
+## Built With
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-CSS3
-
-JavaScript (Vanilla)
-
-Author
+## Author
 Akshay Raju Sangaraju - https://github.com/s-akshay-raju
