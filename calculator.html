@@ -59,31 +59,7 @@
     </div>
 
 </body>
-<script>
 
-
-    let num = '';
-    const result = document.getElementById("result");
-    result.innerText = '0';
-
-
-    function updateElement(value) {
-        num += value;
-        result.innerText = num;
-    }
-
-    function calculate() {
-        try {
-            num = eval(num).toString();
-            result.innerText = num;
-        }
-        catch {
-
-            result.innerText = "Enter a Valid Expression";
-            num = '';
-
-        }
-    }
-</script>
+<script src="calculator.js"></script>
 
 </html>
